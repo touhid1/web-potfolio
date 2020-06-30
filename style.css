@@ -4,21 +4,13 @@ body{
 }
 @media (min-width: 1200px) {
 }
-/* Large devices (desktops, 992px and up) */
-@media (min-width: 992px) and (max-width: 1199px) {
-
-}
-/* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) and (max-width: 991px) {
-
 }
-/*small devices (portrait phones, less than 576px) */
+
 @media(min-width: 576px) and (max-width: 767px) {
-
 }
-/* Extra small devices (portrait phones, less than 576px) */
-@media(min-width: 320px) and (max-width: 575px) {
 
+@media(min-width: 320px) and (max-width: 575px) {
 }
 h1{
     font-size: 50px;
@@ -75,7 +67,7 @@ section{
     color: white;
 }
 .experienc p{
-    overflow:hidden;
+    overflow:auto;
 }
 #touhid{
     border-left: 7px solid;
