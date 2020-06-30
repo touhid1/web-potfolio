@@ -46,10 +46,10 @@ section{
     background-position: right;
 }
 .single-experience{
-    box-shadow: 10px 10px 40px gray; 
+    box-shadow: 10px 10px 40px,white; 
    border-radius: 5px;
    height: 80%;
-   color:darkgrey;
+   color:whitesmoke;
 }
 .experienc{
     background-image: url(developer-portfolio/exp-bg.png);
